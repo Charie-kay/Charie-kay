@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Charie-kay
+- 👀 I’m interested in mobile app development and websites 
+- 🌱 I’m currently learning flutter
+- 📫 How to reach me charitykampanje3@gmail.com 
